@@ -4,6 +4,8 @@ import SearchBar from '../SearchBar/SearchBar';
 import SearchResults from '../SearchResults/SearchResults';
 import Playlist from '../Playlist/Playlist';
 
+//some test comment
+
 class App extends React.Component {
 
 
