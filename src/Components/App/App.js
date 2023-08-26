@@ -15,11 +15,12 @@ class App extends React.Component {
         <div className="App">
           <SearchBar />
 
-          <div className="App-playlist">
+        <div className="App-playlist">
           <SearchResults />
-            <Playlist />
-          </div>
+          <Playlist />
         </div>
+      </div>
+      </>
       </div>)
     
   }
