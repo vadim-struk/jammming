@@ -9,7 +9,7 @@ class App extends React.Component {
 
   render() {
     return (<div>
-        <h1>Ja<span className="highlight">mmm</span>ing</h1>
+        <h1>Ja<span className="highlight">mmasdfm</span>ing</h1>
         <div className="App">
           <SearchBar />
 
